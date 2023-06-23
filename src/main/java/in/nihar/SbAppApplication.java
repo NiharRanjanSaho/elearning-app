@@ -11,4 +11,9 @@ public class SbAppApplication {
 		System.out.println("Welcome to spring world");
 	}
 
+	public String void(){
+		String msg="Nihar";
+		return msg;
+	}
+
 }
